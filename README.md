@@ -1,6 +1,6 @@
 # FastAPI
 
-Create a virtual directory. For example crud
+Create a virtual directory. For example crud 
 python3.9 -m venv crud  
 Change the pwd to source and activate the dir 
 source crud/bin/activate
